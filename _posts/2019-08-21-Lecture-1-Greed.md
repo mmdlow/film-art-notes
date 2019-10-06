@@ -27,14 +27,14 @@ blurb: Naturalism & Von Stroheim's Use of Misce-en-Scene
 - Degraded relationship between **Maria** and **Zerkow**
   - **Maria**: Cleaning lady who sells lottery ticket to **Trina**
   - **Zerkow**: Her husband
-  - Intended to foreshadow how McTeague and Trina’s marriage will end up in destruction  
-  
-    | Maria & Zerkow           | McTeague & Trina                                     |
-    | ------------------------ | ---------------------------------------------------- |
-    | Both live in a junk shed | **Start**: M&T's bourgeois lifestyle                 |
-    |                          | **End**: M&T end up living in dilapidated conditions |
-    |                          | **Foreshadowing**: degradation                       |
-    | Zerkow kills Maria       | **Foreshadowing**: Mac kills Trina                   |
+  - Intended to foreshadow how McTeague and Trina’s marriage will end up in destruction
+
+| Maria & Zerkow           | McTeague & Trina                                     |
+| ------------------------ | ---------------------------------------------------- |
+| Both live in a junk shed | **Start**: M&T's bourgeois lifestyle                 |
+|                          | **End**: M&T end up living in dilapidated conditions |
+|                          | **Foreshadowing**: degradation                       |
+| Zerkow kills Maria       | **Foreshadowing**: Mac kills Trina                   |
   
 - Surreal shot of hands playing with gilded objects
   - Actually belong to the Maria and Zerkow subplot, re-edited to apply to Trina
@@ -50,16 +50,19 @@ blurb: Naturalism & Von Stroheim's Use of Misce-en-Scene
 - Shy relationship between Mr Grannis and Miss Baker that blossoms into romance
 - A contrast to Mac and Trina’s declining marriage
 
+---
+
 ## B. Von Stroheim's Artistic Manifesto
 
 ### B1. Emphasis on Realism
 
 - In terms of the authenticity of props and settings
-- In terms of seeing reality as it is, and **rejecting a romanticized or idealized reality** (associated with mainstream cinema, even in Stroheim’s time)
+- In terms of seeing reality as it is, and **rejecting a romanticized or idealized reality** (associated with mainstream cinema, even in Stroheim’s time)  
 
-- Von Stroheim:
-
-  > "I intended to show men and women . . . with their good and bad qualities, their noble and idealistic sides and their jealous, vicious, mean, greedy sides"
+```
+"I intended to show men and women . . . with their good and bad qualities, their noble and idealistic sides and their jealous, vicious, mean, greedy sides"
+- Von Stroheim
+```
 
 - Stroheim’s characters: mixture of good and bad, yet dark side ultimately prevails
 - MacTeague may have tender, compassionate, even artistic side, yet darker brutish self triumphs
@@ -82,7 +85,9 @@ blurb: Naturalism & Von Stroheim's Use of Misce-en-Scene
 
 #### B2-ii. A negative (NATURALIST) view of Man
 
-- > "a primitive brute governed by his instincts and limited by his heredity and environment" (Finler 23)
+```
+"a primitive brute governed by his instincts and limited by his heredity and environment" (Finler 23)
+```
 
 Stroheim’s film seeks not just to exemplify realism, but **the Philosophy of Naturalism**
 
@@ -93,13 +98,15 @@ Stroheim’s film seeks not just to exemplify realism, but **the Philosophy of N
 - Emerged partly out of the influence of Darwin’s evolutionary theory in the 19th-century: man evolves from ape
 - Thus associates man closely with nature, specifically animals and biological beings
 - Man is animal-like, brutish, and predominantly nothing more than a biological being  
-  `E.g. Mac and Marcus clawing and tearing at each other like wild animals in the last scene`
+  ```
+  E.g. Mac and Marcus clawing and tearing at each other like wild animals in the last scene
+  ```
 
 ##### Quick Summary of Greed's naturalism
 
-> Presents the view that **Man is an animal-like being controlled and determined by [1] Instinct, [2] Heredity and [3] Environment**.
+> Presents the view that **Man is an animal-like being controlled and determined by [1] [Instinct](#1-governed-by-instinct), [2] [Heredity](#2-governed-by-heredity) and [3] [Environment](#3-limited-by-environment)**
 >
-> The film’s naturalism results in an overall general sense of how there are **[4] constantly larger forces or a larger fate** that **controls, dooms and destroys the characters**.
+> The film’s naturalism results in an overall general sense of how there are **[4] [constantly larger forces or a larger fate](#4-larger-forces) that **controls, dooms and destroys the characters**.
 >
 > There is an overall recurring sense of **entrapment and doom**.
 
@@ -123,7 +130,9 @@ Stroheim’s film seeks not just to exemplify realism, but **the Philosophy of N
 
 - McTeague’s father (added by Stroheim) and how McTeague cannot escape from qualities genetically transmitted by his father
 - McTeague cannot escape inheriting his father’s weaknesses and degeneracy  
-  `Intertitle: “Below the fine fabric bred of his mother ran the foul stream of hereditary evil… The taint of generations given through his father…”`
+  ```
+  Intertitle: “Below the fine fabric bred of his mother ran the foul stream of hereditary evil… The taint of generations given through his father…”
+  ```
 - When McTeague succumbs to alcohol, we observe the ghost of his father exerting its influence on the present
 
 ##### [3] Limited by Environment
@@ -137,38 +146,42 @@ Stroheim’s film seeks not just to exemplify realism, but **the Philosophy of N
 
 ##### [4] Larger forces
 
-- Literal or symbolic/abstract
+- Literal or symbolic/abstract 
+    ```
+    Intertitle: "...mysterious instincts, as ungovernable as the winds of heaven, were knitting their lives together"
 
-  - **Intertitle**: McTeague and Trina’s lives as controlled by larger forces  
-    `"...mysterious instincts, as ungovernable as the winds of heaven, were knitting their lives together"`
+    -  McTeague and Trina’s lives as controlled by larger forces
+    ```
   - **Giant hand** grasping the 2 struggling figures
   - **Funeral procession**
-
     - In the background while the wedding is taking place in the foreground
     - Juxtaposition that the marriage will result in the death of the characters
     - The wedding is not a wedding, but a funeral
-
   - **Lottery official**
-
     - **Literal force**: figure of fate bestowing fortune
     - **Abstract force**: A fortune that turns out to be fate working destructively in Trina's marriage and life
-
   - Some of these forces are “symbolic”
 
 - **Determinism** in Naturalist philosophy: characters’ lives are determined by given forces
 - Could Mac, Marcus or Trina have behaved differently to forestall the tragedy that their lives became?  
   If yes, this would detract from the film’s strong sense of determinism
 
+---
+
 ## C. Film-making in Greed
 
 ### C1. Diegesis
 
-**Definition**: Refers to the world of the film’s story
+> Refers to the world of the film’s story
 
 - **Diegetic element**: Includes events that are presumed to have occurred but are not shown on screen  
-  `E.g. Marcus’ act of writing to the dental authorities`
+  ```
+  E.g. Marcus’ act of writing to the dental authorities
+  ```
 - **Nondiegetic element**: Not part of the film's world  
-  `E.g. Most film scores`
+  ```
+  E.g. Most film scores
+  ```
 
 Are the **surreal shots of the hands** diegetic or nondiegetic?
 
@@ -177,17 +190,25 @@ Are the **surreal shots of the hands** diegetic or nondiegetic?
 
 ### C2. Mise-en-scene
 
-**Definition**: all the objects and other elements placed in front of the camera to be photographed
+> All the objects and other elements placed in front of the camera to be photographed
 
 - Includes props, setting, costumes, make-up, lighting, figure behavior  
-  `E.g. Marcus' figure behavior when he crawls up to Mac in Death Valley, representing his regression into primal animalistic nature`
-- Includes **composition** of elements of mise-en-scene  
-  `E.g. Stroheim’s penchant for compositions in depth (using deep space settings)`  
-  `E.g. Use of Multiplane Composition`
+  ```
+  E.g. Marcus' figure behavior when he crawls up to Mac in Death Valley
+  - Represents his regression into primal animalistic nature
+  ```
+- Includes **composition** of elements of mise-en-scene
+  - Stroheim’s penchant for compositions in depth (using deep space settings)  
+  - Use of Multiplane Composition
 
-**Multiplane composition**: Composition using foreground, middle ground and background  
-`E.g. Mac and Marcus at Cliff House`  
-`E.g. Wedding/Funeral scene`
+##### Multiplane composition
+> Composition using foreground, middle ground and background
+
+```
+E.g. 
+Mac and Marcus at Cliff House
+Wedding/Funeral scene
+```
 
 #### C2-i. Use of Mise-en-scene to reflect Naturalism
 
@@ -198,50 +219,45 @@ The meaning and impact of Greed is achieved through the use of mise-en-scene.
 
 ##### Excerpt 1: Mac returns home after losing his job at the factory
 
-1. Giant Tooth
-
+1. **Giant Tooth**
    - Once displayed proudly outside Mac’s dental clinic
    - Now relegated to a table in the apartment
 
-2. Bird Cage reflected in Mirror
-
+2. **Bird Cage reflected in Mirror**
    - Symbolic commentary on the marriage, became like a cage for the couple
    - **Irony**:
      - Bird cage was a wedding gift
      - Current placement is a counterpoint to the current state of marriage
      - Callback to happier times
 
-3. Wedding photo placed between the couple in frame
+3. **Wedding photo placed between the couple in frame**
    - Used to sit in grandly furnished studio, now sits in a squalid place (the apartment)
    - Trying to hold the marriage together while it’s falling apart
 
 ##### Excerpt 2: Mac and Trina go on a date
 
-1. Deep space setting
-
+1. **Deep space setting**
    - Background far away, sense of a vast space
    - Foregrounds characters are contained within an environment inhospitable to them
    - Storm forces them out of the open space into a confined shelter space
 
-2. Dead rat, a death motif
-
-3. Mac's accordion
-
+2. **Dead rat**, a death motif
+3. **Mac's accordion**
    - Artistic, musical positive side to him
 
-4. Beer bottle ad in shelter
-
+4. **Beer bottle ad** in shelter
    - Foreshadows Mac’s alcoholism
 
-5. End of scene
-
+5. **End of scene**
    - Mac triumphant
    - However, next shot shows him going towards the train with cage bar-like pillars in the foreground
 
 ### C3. Props and costumes
 
-**Definition**: Prop: any object that plays a part in the dramatic action  
-`E.g. Truck in Landscape in the Mist`
+> Prop: any object that plays a part in the dramatic action  
+```
+E.g. Truck in Landscape in the Mist
+```
 
 - Provides commentary on the action
 - At times, an ironic counterpoint to the action
@@ -259,54 +275,64 @@ The meaning and impact of Greed is achieved through the use of mise-en-scene.
 - Costume and figure behaviour
 
 Stroheim tends to use props ironically  
-`E.g. Scene where Mac murders Trina`  
-`- Background: cheerful Christmas decor`  
-`- Foreground: Husband returning to terrorize his wife`
+```
+E.g. Scene where Mac murders Trina
+- Background: cheerful Christmas decor
+- Foreground: Husband returning to terrorize his wife
+```
 
 Example of Stroheim's use of costume:  
-`E.g. Trina's wedding gown makes her look ghostly -> instance of the death motif`
+```
+E.g. Trina's wedding gown makes her look ghostly -> instance of the death motif
+```
 
 ### C4. Motifs
 
-**Definition**: an element in a film that is repeated in a significant way (not confined to props)  
-`E.g. An abstract visual motif, like the forward, penetrating camera movement in Citizen Kane`  
-`E.g. Musical motifs`
+> an element in a film that is repeated in a significant way (not confined to props)
+
+```
+E.g. An abstract visual motif, like the forward, penetrating camera movement in Citizen Kane
+E.g. Musical motifs
+```
 
 - A prop becomes a motif if it is repeated in the film  
-  `E.g. The wedding photograph and the birdcage become motifs through repetition.`
+  ```
+  E.g. The wedding photograph and the birdcage become motifs through repetition.
+  ```
 - Creates patterns within the film
   - Pattern of parallels or pattern of contrast
   - Functions as a commentary on the action
 
 #### Motifs in Greed
 
-1. Death images
-
+1. **Death images**
    - Dead rat, the funeral hearse, the coffin, the skull of goats, the carcasses of animals, even Trina’s wedding gown, Death Valley
    - Reminds us of the doom that awaits the characters, even during a happy occasion like the wedding
 
-2. Hands
-
+2. **Hands**
    - Used for irony
 
-3. The bird
+3. **The bird**
 
 ### C5. Setting
 
 1. Rural, Urban then back to Rural (Death Valley)
-
 2. McTeague and Trina’s home
-
    - Changes in their home situation parallel their deterioration
    - Reinforces the idea of humans in a degraded state
 
 #### C5-i. Deep Space
 
-An arrangement of mise-en-scene so that there is a considerable distance between the plane closest to the camera and the one farthest away. Any or all of these planes may be in focus.  
-`E.g. Death Valley`
+> An arrangement of mise-en-scene so that there is a considerable distance between the plane closest to the camera and the one farthest away. Any or all of these planes may be in focus.  
+
+```
+E.g. Death Valley
+```
 
 Often used with multiplane composition.  
-`E.g. Mac and Marcus, cliff house scene`
+```
+E.g. Mac and Marcus, cliff house scene
+```
 
 #### C5-ii. Shallow Space
 
