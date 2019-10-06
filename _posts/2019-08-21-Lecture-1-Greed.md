@@ -25,16 +25,17 @@ blurb: Naturalism & Von Stroheim's Use of Misce-en-Scene
 ### A3. Subplot 1
 
 - Degraded relationship between **Maria** and **Zerkow**
-
   - **Maria**: Cleaning lady who sells lottery ticket to **Trina**
   - **Zerkow**: Her husband
-  - Intended to foreshadow how McTeague and Trina’s marriage will end up in destruction
-
-    | Maria & Zerkow           | McTeague & Trina                                                                                                                                                 |
-    | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | Both live in a junk shed | <li>**Start**: Contrasts with M&T's bourgeois lifestyle</li><li>**End**: M&T end up living in dilapidated conditions</li><li>**Foreshadowing**: degradation</li> |
-    | Zerkow kills Maria       | **Foreshadowing**: Mac kills Trina                                                                                                                               |
-
+  - Intended to foreshadow how McTeague and Trina’s marriage will end up in destruction  
+  
+    | Maria & Zerkow           | McTeague & Trina                                     |
+    | ------------------------ | ---------------------------------------------------- |
+    | Both live in a junk shed | **Start**: M&T's bourgeois lifestyle                 |
+    |                          | **End**: M&T end up living in dilapidated conditions |
+    |                          | **Foreshadowing**: degradation                       |
+    | Zerkow kills Maria       | **Foreshadowing**: Mac kills Trina                   |
+  
 - Surreal shot of hands playing with gilded objects
   - Actually belong to the Maria and Zerkow subplot, re-edited to apply to Trina
   - Part of Zerkow's dreams where he lusts for gilded ojects
@@ -63,10 +64,12 @@ blurb: Naturalism & Von Stroheim's Use of Misce-en-Scene
 - Stroheim’s characters: mixture of good and bad, yet dark side ultimately prevails
 - MacTeague may have tender, compassionate, even artistic side, yet darker brutish self triumphs
 
-|              | Good traits                                                                                                                                                                                                      | Bad traits                                                                    |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Marcus**   | “Altruistically” gives up Trina to Mac                                                                                                                                                                           | Becomes jealous when Trina acquires the fortune                               |
-| **McTeague** | Prologue:</br>He is gentle and compassionate towards the bird</br>- Use of extreme closeup as he kisses the bird</br>- Large hand in foreground gently handles bird, yet later in the film is used to kill Trina | Violent and brutish, he attacks the miner who knocks the bird out of his hand |
+|              | Good Traits                                                                                 | Bad Traits                                                                    |
+| ------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Marcus**   | “Altruistically” gives up Trina to Mac                                                      | Becomes jealous when Trina acquires the fortune                               |
+| **McTeague** | Prologue: He is gentle and compassionate towards the bird                                   | Violent and brutish, he attacks the miner who knocks the bird out of his hand |
+|              | - Use of extreme closeup as he kisses the bird                                              |                                                                               |
+|              | - Large hand in foreground gently handles bird, yet later in the film is used to kill Trina |                                                                               |
 
 ### B2. Philosophy of Naturalism
 
