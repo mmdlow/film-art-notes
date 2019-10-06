@@ -16,6 +16,8 @@ layout: default
 
         <h1 class='c-post__title u-text-center'>{{ page.title }}</h1>
 
+        <p class='u-text-center'><small>{{ page.blurb }}</small></p>
+
         <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%d %b %Y' }}</time>
 
         <div class='c-content' itemprop='articleBody'>
