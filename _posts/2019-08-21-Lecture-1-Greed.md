@@ -255,6 +255,7 @@ The meaning and impact of Greed is achieved through the use of mise-en-scene.
 ### C3. Props and costumes
 
 > Prop: any object that plays a part in the dramatic action  
+
 ```
 E.g. Truck in Landscape in the Mist
 ```
