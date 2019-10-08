@@ -2,6 +2,8 @@
 layout: post
 title: Lecture 2 - Citizen Kane
 blurb: "The jigsaw puzzle of Citizen Kane: tragic loss and Kane's unknowability"
+director: Orson Welles
+year: 1941
 ---
 
 ## A. Narrative

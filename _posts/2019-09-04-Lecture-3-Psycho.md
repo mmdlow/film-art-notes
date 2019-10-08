@@ -2,6 +2,8 @@
 layout: post
 title: Lecture 3 - Psycho
 blurb: "Surveillance, Guilt and Cinema: Watching and being Watched in Psycho"
+director: Alfred Hitchcock
+year: 1960
 ---
 
 ## A. Themes in Psycho
