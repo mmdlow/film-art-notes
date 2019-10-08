@@ -145,8 +145,10 @@ E.g. Kane championing the interests of the readers of The Inquirer, or that of t
   - [Title "Citizen Kane"](#title-"citizen-kane")
   - Wooing the love of the masses
   - Becoming domineering and over-controlling (to compensate for the childhood loss of control)
-  - Defensiveness:  
-    `E.g. "No Trespassing", "If the world rejects me, I will build my own world"`
+  - Defensiveness:
+    ```
+    E.g. "No Trespassing", "If the world rejects me, I will build my own world"
+    ```
   ```
   "Love. That is why he did everything. That’s why he went into politics. It seems we weren’t enough. He wanted all the voters to love him too. All he wanted out of life was love. That was Charlie’s story." - Leland
   ```
@@ -171,7 +173,7 @@ E.g. Kane championing the interests of the readers of The Inquirer, or that of t
 #### B1-iv. Past Haunting the Present
 
 1. Kane's confrontation with **Gettys**
-2. Kane pleads with Susan not to abandon him  
+2. Kane pleads with Susan not to abandon him
 
 ```
 Visual representation e.g:
@@ -179,17 +181,18 @@ Visual representation e.g:
 - Kane appears very small, needy, childish figure after the abandonment -> irony
 ```
 
-   - Second abandonment by a "mother figure"
-     ```
-     Please don't go. You musn't go. You can't do this to me. - Kane
-     ```
+- Second abandonment by a "mother figure"
 
-   - Kane behaves like a child, wrecking the room
-     - Wrecking of the well-furnished room
-     - **Kane rebels against the material wealth he has been given**
-       > **Kane's true identity is that of the broken child** who has been unconsciously striving all his life to compensate for the loss of love and control he experienced in his childhood
-   - Only by pure chance that he realizes this true loss:  
-     [**Discovery of the snow globe**](#the-snow-globe)
+  ```
+  Please don't go. You musn't go. You can't do this to me. - Kane
+  ```
+
+- Kane behaves like a child, wrecking the room
+  - Wrecking of the well-furnished room
+  - **Kane rebels against the material wealth he has been given**
+    > **Kane's true identity is that of the broken child** who has been unconsciously striving all his life to compensate for the loss of love and control he experienced in his childhood
+- Only by pure chance that he realizes this true loss:  
+  [**Discovery of the snow globe**](#the-snow-globe)
 
 ##### The Snow Globe
 
@@ -222,6 +225,7 @@ Visual representation e.g:
     - Welles showing us Kane only in fragments
 - Even Kane does not know himself fully(?)
 - Kane made up of multiple selves
+
   ```
   E.g. Multiple reflections of Kane in the mirrored hallway
 
@@ -240,6 +244,7 @@ Visual representation e.g:
 #### C1-i. Kane framed as small
 
 - Boarding house scene
+
 ![]({{site.baseurl}}/images/posts/boarding-house.png)
 
 - [Susan leaves Kane](#c1-iv-past-haunting-the-present)
@@ -269,37 +274,43 @@ Visual representation e.g:
 ##### Camera Distance
 
 - Extreme close-up
+
 ![]({{site.baseurl}}/images/posts/extreme-close-up-kane.jpg)
 
-  _Citizen Kane (dir. Orson Welles)_
+_Citizen Kane (dir. Orson Welles)_
 
 - Close-up
+
 ![]({{site.baseurl}}/images/posts/close-up-kane.jpg)
 
-  _Citizen Kane (dir. Orson Welles)_
+_Citizen Kane (dir. Orson Welles)_
 
 - Medium shot
+
 ![]({{site.baseurl}}/images/posts/medium-shot-greed.jpg)
 
-  _Greed (dir. Erich von Stroheim)_
+_Greed (dir. Erich von Stroheim)_
 
 - Long shot
+
 ![]({{site.baseurl}}/images/posts/long-shot.jpg)
 
-  _Gospel According to St. Matthew (dir. Pier Paolo Pasolini)_
+_Gospel According to St. Matthew (dir. Pier Paolo Pasolini)_
 
 - Extreme long shot
+
 ![]({{site.baseurl}}/images/posts/extreme-long-shot-greed.jpg)
 
-  _Greed (dir. Erich von Stroheim)_
+_Greed (dir. Erich von Stroheim)_
 
 ##### Camera Angle
 
 - High-angle shot
 - Low-angle shot
+
 ![]({{site.baseurl}}/images/posts/low-angle-kane.png)
 
-  _Citizen Kane (dir. Orson Welles)_
+_Citizen Kane (dir. Orson Welles)_
 
 #### C2-ii. Focus
 
@@ -319,10 +330,12 @@ Visual representation e.g:
 
 ##### Selective Focus
 
-1. Gospel According to St. Matthew  
+- Gospel According to St. Matthew
+
 ![]({{site.baseurl}}/images/posts/selective-focus.png)
 
-2. Citizen Kane (Susan's attempted suicide scene)
+- Citizen Kane (Susan's attempted suicide scene)
+
 ![]({{site.baseurl}}/images/posts/selective-focus-kane.jpg)
 
 #### C2-iii. Duration of Image
@@ -340,29 +353,31 @@ Visual representation e.g:
 - Enables us to see this traumatic transition in Kane’s life within the same shot
   - See both a brief glimpse of freedom, and the loss of that freedom, in the same shot
 - Walkthrough of scene:
-
   - Starts with a dissolve transition from text on the page
   - Graphic match:
 
-    ```
-    Black text on white paper -> Kane standing out against white snow
-    Kane alone but truly happy with a single childhood toy
+```
+Black text on white paper -> Kane standing out against white snow
+Kane alone but truly happy with a single childhood toy
 
-    vs
+vs
 
-    Xanadu scene: Kane is surrounded by possessions but empty inside
-    ```
+Xanadu scene: Kane is surrounded by possessions but empty inside
+```
 
-  - As the camera tracks back through the window, Kane becomes an object in the distance dwarfed by the adults in the foreground  
-    ![]({{site.baseurl}}/images/posts/boarding-house.png)
-    ```
-    Mother in the foreground  -> most powerful
-    Father in middle ground   -> less powerful
-    Kane in background        -> least powerful
-    ```
-  - Irony counterpoint between foreground and background
-    - Deed being signed on foreground to separate Kane from parents
-    - Kane (playing soldiers in the Civil War) shouting “Union forever” in the background
+- As the camera tracks back through the window, Kane becomes an object in the distance dwarfed by the adults in the foreground
+
+![]({{site.baseurl}}/images/posts/boarding-house.png)
+
+```
+Mother in the foreground  -> most powerful
+Father in middle ground   -> less powerful
+Kane in background        -> least powerful
+```
+
+- Irony counterpoint between foreground and background
+  - Deed being signed on foreground to separate Kane from parents
+  - Kane (playing soldiers in the Civil War) shouting “Union forever” in the background
 
 ### C3. Sound in Citizen Kane
 
