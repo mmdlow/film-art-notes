@@ -67,6 +67,8 @@ Narrative segments of Citizen Kane:
   E.g. Death, the loss of childhood and innocence
 - Kane’s experience of his tragic loss remains private and cannot be shared with others
 
+---
+
 ## B. Interpreting Citizen Kane
 
 ### B1. Tragedy
@@ -236,6 +238,8 @@ Visual representation e.g:
   (4) He doesn’t look at the mirror       -> unable to recognize himself(?)
   (5) Scene ends with a slight tracking towards emptiness (after Kane moves out of shot)
   ```
+
+---
 
 ## C. Film-making in Citizen Kane
 
