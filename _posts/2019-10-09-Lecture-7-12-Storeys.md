@@ -258,6 +258,10 @@ E.g. Ah Gu and Lili’s relationship is loud and noisy but still it indicates re
 
 ##### Final scene
 
+- They finally share the same shot, with Spirit entering the frame from behind
+  - Previously, San San is always shown alone first, before cutting to a shot with both of them
+  - Shows that they have become closer
+
 - Extreme close-up of San San's eye opening as she is embraced by Spirit
   - She senses the embrace of the spirit, a sense of comfort
   - OR: "come with me"
