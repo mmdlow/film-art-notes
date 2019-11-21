@@ -385,7 +385,7 @@ E.g. Shot where 633 and Faye are face-to-face
 E.g. Shot where 633 drinks coffee as he thinks about his ex-girlfriend
 ```
 
-![]({{site.baseurl}}/images/posts/633-coffee-cke.png)
+![]({{site.baseurl}}/images/posts/633-coffee-cke.PNG)
 
 - Segmented into different psychological zones
     1. 633's melancholic brooding (past)
