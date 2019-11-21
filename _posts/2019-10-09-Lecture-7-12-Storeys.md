@@ -6,7 +6,7 @@ director: Eric Khoo
 year: 1997
 ---
 
-## A. About the Film
+## A. Introduction
 
 > The viewer is invited to:
 > 
