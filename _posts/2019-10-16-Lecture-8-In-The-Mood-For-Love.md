@@ -11,8 +11,8 @@ year: 2000
 > Like *Chungking Express*, *In The Mood For Love* is concerned with the following three broad and inter-related categories:
 > 
 > 1. [**Space and Architecture**](#b-space-in-in-the-mood-for-love)
-> 2. Time
-> 3. Relationships
+> 2. [**Time**](#e-time-in-in-the-mood-for-love)
+> 3. [**Relationships**](#c-relationships-in-in-the-mood-for-love)
 
 ### A1. Dramatis Personae
 
